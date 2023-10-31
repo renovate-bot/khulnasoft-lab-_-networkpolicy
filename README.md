@@ -1,10 +1,10 @@
 # networkpolicy
 
-[![License](https://img.shields.io/github/license/khulnasoft-labs/networkpolicy)](LICENSE.md)
-![Go version](https://img.shields.io/github/go-mod/go-version/khulnasoft-labs/networkpolicy?filename=go.mod)
-[![Release](https://img.shields.io/github/release/khulnasoft-labs/networkpolicy)](https://github.com/khulnasoft-labs/networkpolicy/releases/)
-[![Checks](https://github.com/khulnasoft-labs/networkpolicy/actions/workflows/build-test.yml/badge.svg)](https://github.com/khulnasoft-labs/networkpolicy/actions/workflows/build-test.yml)
-[![GoDoc](https://pkg.go.dev/badge/khulnasoft-labs/networkpolicy)](https://pkg.go.dev/github.com/khulnasoft-labs/networkpolicy)
+[![License](https://img.shields.io/github/license/khulnasoft-lab/networkpolicy)](LICENSE.md)
+![Go version](https://img.shields.io/github/go-mod/go-version/khulnasoft-lab/networkpolicy?filename=go.mod)
+[![Release](https://img.shields.io/github/release/khulnasoft-lab/networkpolicy)](https://github.com/khulnasoft-lab/networkpolicy/releases/)
+[![Checks](https://github.com/khulnasoft-lab/networkpolicy/actions/workflows/build-test.yml/badge.svg)](https://github.com/khulnasoft-lab/networkpolicy/actions/workflows/build-test.yml)
+[![GoDoc](https://pkg.go.dev/badge/khulnasoft-lab/networkpolicy)](https://pkg.go.dev/github.com/khulnasoft-lab/networkpolicy)
 
 
 
@@ -26,7 +26,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/khulnasoft-labs/networkpolicy"
+	"github.com/khulnasoft-lab/networkpolicy"
 )
 
 func main() {

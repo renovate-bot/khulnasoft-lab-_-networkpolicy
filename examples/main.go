@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"net/http/httputil"
 
-	"github.com/khulnasoft-labs/networkpolicy"
+	"github.com/khulnasoft-lab/networkpolicy"
 )
 
 func main() {
